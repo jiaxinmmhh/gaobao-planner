@@ -1,0 +1,1872 @@
+[
+  {
+    "id": "s001",
+    "title": "版权信息",
+    "source_path": "EPUB/xhtml/Copyright.xhtml",
+    "chapter": 0,
+    "original_chapter": 0,
+    "skill_file": "references/source.md",
+    "text_chars": 141,
+    "image_refs": 0
+  },
+  {
+    "id": "s002",
+    "title": "张雪峰·峰阅教研团队成员",
+    "source_path": "EPUB/xhtml/Section0001.xhtml",
+    "chapter": 0,
+    "original_chapter": 0,
+    "skill_file": "references/source.md",
+    "text_chars": 76,
+    "image_refs": 0
+  },
+  {
+    "id": "s003",
+    "title": "推荐序",
+    "source_path": "EPUB/xhtml/Section0002.xhtml",
+    "chapter": 0,
+    "original_chapter": 0,
+    "skill_file": "references/source.md",
+    "text_chars": 915,
+    "image_refs": 0
+  },
+  {
+    "id": "s004",
+    "title": "前言",
+    "source_path": "EPUB/xhtml/Section0003.xhtml",
+    "chapter": 0,
+    "original_chapter": 0,
+    "skill_file": "references/source.md",
+    "text_chars": 1423,
+    "image_refs": 0
+  },
+  {
+    "id": "s005",
+    "title": "第一章 强基计划圆你名校梦",
+    "source_path": "EPUB/xhtml/Section0004.xhtml",
+    "chapter": 1,
+    "original_chapter": 1,
+    "skill_file": "chapters/ch01-strong-foundation.md",
+    "text_chars": 13,
+    "image_refs": 0
+  },
+  {
+    "id": "s006",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0004_0001.xhtml",
+    "chapter": 1,
+    "original_chapter": 1,
+    "skill_file": "chapters/ch01-strong-foundation.md",
+    "text_chars": 462,
+    "image_refs": 0
+  },
+  {
+    "id": "s007",
+    "title": "什么是强基计划？",
+    "source_path": "EPUB/xhtml/Section0005.xhtml",
+    "chapter": 1,
+    "original_chapter": 1,
+    "skill_file": "chapters/ch01-strong-foundation.md",
+    "text_chars": 348,
+    "image_refs": 3
+  },
+  {
+    "id": "s008",
+    "title": "不同省份能报哪些强基计划？",
+    "source_path": "EPUB/xhtml/Section0006.xhtml",
+    "chapter": 1,
+    "original_chapter": 1,
+    "skill_file": "chapters/ch01-strong-foundation.md",
+    "text_chars": 208,
+    "image_refs": 4
+  },
+  {
+    "id": "s009",
+    "title": "强基计划的报考条件",
+    "source_path": "EPUB/xhtml/Section0007.xhtml",
+    "chapter": 1,
+    "original_chapter": 1,
+    "skill_file": "chapters/ch01-strong-foundation.md",
+    "text_chars": 841,
+    "image_refs": 2
+  },
+  {
+    "id": "s010",
+    "title": "高考选科有要求吗？",
+    "source_path": "EPUB/xhtml/Section0008.xhtml",
+    "chapter": 1,
+    "original_chapter": 1,
+    "skill_file": "chapters/ch01-strong-foundation.md",
+    "text_chars": 107,
+    "image_refs": 2
+  },
+  {
+    "id": "s011",
+    "title": "可以报考哪些学校？",
+    "source_path": "EPUB/xhtml/Section0009.xhtml",
+    "chapter": 1,
+    "original_chapter": 1,
+    "skill_file": "chapters/ch01-strong-foundation.md",
+    "text_chars": 65,
+    "image_refs": 1
+  },
+  {
+    "id": "s012",
+    "title": "可以报考哪些专业？",
+    "source_path": "EPUB/xhtml/Section0010.xhtml",
+    "chapter": 1,
+    "original_chapter": 1,
+    "skill_file": "chapters/ch01-strong-foundation.md",
+    "text_chars": 227,
+    "image_refs": 0
+  },
+  {
+    "id": "s013",
+    "title": "强基计划的报考流程和节点",
+    "source_path": "EPUB/xhtml/Section0011.xhtml",
+    "chapter": 1,
+    "original_chapter": 1,
+    "skill_file": "chapters/ch01-strong-foundation.md",
+    "text_chars": 377,
+    "image_refs": 2
+  },
+  {
+    "id": "s014",
+    "title": "常见问题",
+    "source_path": "EPUB/xhtml/Section0012.xhtml",
+    "chapter": 1,
+    "original_chapter": 1,
+    "skill_file": "chapters/ch01-strong-foundation.md",
+    "text_chars": 3327,
+    "image_refs": 7
+  },
+  {
+    "id": "s015",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0013.xhtml",
+    "chapter": 1,
+    "original_chapter": 1,
+    "skill_file": "chapters/ch01-strong-foundation.md",
+    "text_chars": 514,
+    "image_refs": 0
+  },
+  {
+    "id": "s016",
+    "title": "第二章 综合评价综合考查降分数",
+    "source_path": "EPUB/xhtml/Section0014.xhtml",
+    "chapter": 2,
+    "original_chapter": 2,
+    "skill_file": "chapters/ch02-comprehensive-evaluation.md",
+    "text_chars": 15,
+    "image_refs": 0
+  },
+  {
+    "id": "s017",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0014_0001.xhtml",
+    "chapter": 2,
+    "original_chapter": 2,
+    "skill_file": "chapters/ch02-comprehensive-evaluation.md",
+    "text_chars": 158,
+    "image_refs": 0
+  },
+  {
+    "id": "s018",
+    "title": "什么是综合评价？",
+    "source_path": "EPUB/xhtml/Section0015.xhtml",
+    "chapter": 2,
+    "original_chapter": 2,
+    "skill_file": "chapters/ch02-comprehensive-evaluation.md",
+    "text_chars": 500,
+    "image_refs": 3
+  },
+  {
+    "id": "s019",
+    "title": "适合哪些学生报考？",
+    "source_path": "EPUB/xhtml/Section0016.xhtml",
+    "chapter": 2,
+    "original_chapter": 2,
+    "skill_file": "chapters/ch02-comprehensive-evaluation.md",
+    "text_chars": 2007,
+    "image_refs": 1
+  },
+  {
+    "id": "s020",
+    "title": "哪些省市的院校会有综合评价招生政策？",
+    "source_path": "EPUB/xhtml/Section0017.xhtml",
+    "chapter": 2,
+    "original_chapter": 2,
+    "skill_file": "chapters/ch02-comprehensive-evaluation.md",
+    "text_chars": 110,
+    "image_refs": 3
+  },
+  {
+    "id": "s021",
+    "title": "综合评价的报考流程",
+    "source_path": "EPUB/xhtml/Section0018.xhtml",
+    "chapter": 2,
+    "original_chapter": 2,
+    "skill_file": "chapters/ch02-comprehensive-evaluation.md",
+    "text_chars": 462,
+    "image_refs": 0
+  },
+  {
+    "id": "s022",
+    "title": "综合评价的优势",
+    "source_path": "EPUB/xhtml/Section0019.xhtml",
+    "chapter": 2,
+    "original_chapter": 2,
+    "skill_file": "chapters/ch02-comprehensive-evaluation.md",
+    "text_chars": 1354,
+    "image_refs": 1
+  },
+  {
+    "id": "s023",
+    "title": "综合评价的局限",
+    "source_path": "EPUB/xhtml/Section0020.xhtml",
+    "chapter": 2,
+    "original_chapter": 2,
+    "skill_file": "chapters/ch02-comprehensive-evaluation.md",
+    "text_chars": 900,
+    "image_refs": 2
+  },
+  {
+    "id": "s024",
+    "title": "常见问题",
+    "source_path": "EPUB/xhtml/Section0021.xhtml",
+    "chapter": 2,
+    "original_chapter": 2,
+    "skill_file": "chapters/ch02-comprehensive-evaluation.md",
+    "text_chars": 1017,
+    "image_refs": 0
+  },
+  {
+    "id": "s025",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0022.xhtml",
+    "chapter": 2,
+    "original_chapter": 2,
+    "skill_file": "chapters/ch02-comprehensive-evaluation.md",
+    "text_chars": 386,
+    "image_refs": 0
+  },
+  {
+    "id": "s026",
+    "title": "第三章 三大公费生汇聚力量促发展",
+    "source_path": "EPUB/xhtml/Section0023.xhtml",
+    "chapter": 3,
+    "original_chapter": 3,
+    "skill_file": "chapters/ch03-public-funded.md",
+    "text_chars": 16,
+    "image_refs": 0
+  },
+  {
+    "id": "s027",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0023_0001.xhtml",
+    "chapter": 3,
+    "original_chapter": 3,
+    "skill_file": "chapters/ch03-public-funded.md",
+    "text_chars": 692,
+    "image_refs": 0
+  },
+  {
+    "id": "s028",
+    "title": "公费师范生",
+    "source_path": "EPUB/xhtml/Section0024.xhtml",
+    "chapter": 3,
+    "original_chapter": 3,
+    "skill_file": "chapters/ch03-public-funded.md",
+    "text_chars": 2071,
+    "image_refs": 1
+  },
+  {
+    "id": "s029",
+    "title": "公费农科生",
+    "source_path": "EPUB/xhtml/Section0025.xhtml",
+    "chapter": 3,
+    "original_chapter": 3,
+    "skill_file": "chapters/ch03-public-funded.md",
+    "text_chars": 1253,
+    "image_refs": 0
+  },
+  {
+    "id": "s030",
+    "title": "公费医学生",
+    "source_path": "EPUB/xhtml/Section0026.xhtml",
+    "chapter": 3,
+    "original_chapter": 3,
+    "skill_file": "chapters/ch03-public-funded.md",
+    "text_chars": 765,
+    "image_refs": 0
+  },
+  {
+    "id": "s031",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0027.xhtml",
+    "chapter": 3,
+    "original_chapter": 3,
+    "skill_file": "chapters/ch03-public-funded.md",
+    "text_chars": 131,
+    "image_refs": 0
+  },
+  {
+    "id": "s032",
+    "title": "第四章 三大招飞蓝天梦想启航",
+    "source_path": "EPUB/xhtml/Section0028.xhtml",
+    "chapter": 4,
+    "original_chapter": 4,
+    "skill_file": "chapters/ch04-pilot.md",
+    "text_chars": 14,
+    "image_refs": 0
+  },
+  {
+    "id": "s033",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0028_0001.xhtml",
+    "chapter": 4,
+    "original_chapter": 4,
+    "skill_file": "chapters/ch04-pilot.md",
+    "text_chars": 411,
+    "image_refs": 0
+  },
+  {
+    "id": "s034",
+    "title": "空军招飞",
+    "source_path": "EPUB/xhtml/Section0029.xhtml",
+    "chapter": 4,
+    "original_chapter": 4,
+    "skill_file": "chapters/ch04-pilot.md",
+    "text_chars": 3322,
+    "image_refs": 1
+  },
+  {
+    "id": "s035",
+    "title": "海军招飞",
+    "source_path": "EPUB/xhtml/Section0030.xhtml",
+    "chapter": 4,
+    "original_chapter": 4,
+    "skill_file": "chapters/ch04-pilot.md",
+    "text_chars": 3268,
+    "image_refs": 2
+  },
+  {
+    "id": "s036",
+    "title": "民航招飞",
+    "source_path": "EPUB/xhtml/Section0031.xhtml",
+    "chapter": 4,
+    "original_chapter": 4,
+    "skill_file": "chapters/ch04-pilot.md",
+    "text_chars": 5743,
+    "image_refs": 3
+  },
+  {
+    "id": "s037",
+    "title": "飞行员待遇",
+    "source_path": "EPUB/xhtml/Section0032.xhtml",
+    "chapter": 4,
+    "original_chapter": 4,
+    "skill_file": "chapters/ch04-pilot.md",
+    "text_chars": 1409,
+    "image_refs": 0
+  },
+  {
+    "id": "s038",
+    "title": "三大招飞怎么选择？",
+    "source_path": "EPUB/xhtml/Section0033.xhtml",
+    "chapter": 4,
+    "original_chapter": 4,
+    "skill_file": "chapters/ch04-pilot.md",
+    "text_chars": 544,
+    "image_refs": 0
+  },
+  {
+    "id": "s039",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0034.xhtml",
+    "chapter": 4,
+    "original_chapter": 4,
+    "skill_file": "chapters/ch04-pilot.md",
+    "text_chars": 317,
+    "image_refs": 0
+  },
+  {
+    "id": "s040",
+    "title": "第五章 军校生钢铁意志保国家",
+    "source_path": "EPUB/xhtml/Section0035.xhtml",
+    "chapter": 5,
+    "original_chapter": 5,
+    "skill_file": "chapters/ch05-military-academy.md",
+    "text_chars": 14,
+    "image_refs": 0
+  },
+  {
+    "id": "s041",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0035_0001.xhtml",
+    "chapter": 5,
+    "original_chapter": 5,
+    "skill_file": "chapters/ch05-military-academy.md",
+    "text_chars": 175,
+    "image_refs": 0
+  },
+  {
+    "id": "s042",
+    "title": "什么是军校生？",
+    "source_path": "EPUB/xhtml/Section0036.xhtml",
+    "chapter": 5,
+    "original_chapter": 5,
+    "skill_file": "chapters/ch05-military-academy.md",
+    "text_chars": 104,
+    "image_refs": 0
+  },
+  {
+    "id": "s043",
+    "title": "军校生的报考条件",
+    "source_path": "EPUB/xhtml/Section0037.xhtml",
+    "chapter": 5,
+    "original_chapter": 5,
+    "skill_file": "chapters/ch05-military-academy.md",
+    "text_chars": 400,
+    "image_refs": 0
+  },
+  {
+    "id": "s044",
+    "title": "军校生的考试流程",
+    "source_path": "EPUB/xhtml/Section0038.xhtml",
+    "chapter": 5,
+    "original_chapter": 5,
+    "skill_file": "chapters/ch05-military-academy.md",
+    "text_chars": 316,
+    "image_refs": 2
+  },
+  {
+    "id": "s045",
+    "title": "考上军校就有军籍吗？",
+    "source_path": "EPUB/xhtml/Section0039.xhtml",
+    "chapter": 5,
+    "original_chapter": 5,
+    "skill_file": "chapters/ch05-military-academy.md",
+    "text_chars": 178,
+    "image_refs": 0
+  },
+  {
+    "id": "s046",
+    "title": "可以报考哪些学校？",
+    "source_path": "EPUB/xhtml/Section0040.xhtml",
+    "chapter": 5,
+    "original_chapter": 5,
+    "skill_file": "chapters/ch05-military-academy.md",
+    "text_chars": 901,
+    "image_refs": 0
+  },
+  {
+    "id": "s047",
+    "title": "体检与政审",
+    "source_path": "EPUB/xhtml/Section0041.xhtml",
+    "chapter": 5,
+    "original_chapter": 5,
+    "skill_file": "chapters/ch05-military-academy.md",
+    "text_chars": 1551,
+    "image_refs": 2
+  },
+  {
+    "id": "s048",
+    "title": "指挥类专业与非指挥类专业的区别",
+    "source_path": "EPUB/xhtml/Section0042.xhtml",
+    "chapter": 5,
+    "original_chapter": 5,
+    "skill_file": "chapters/ch05-military-academy.md",
+    "text_chars": 818,
+    "image_refs": 0
+  },
+  {
+    "id": "s049",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0043.xhtml",
+    "chapter": 5,
+    "original_chapter": 5,
+    "skill_file": "chapters/ch05-military-academy.md",
+    "text_chars": 262,
+    "image_refs": 0
+  },
+  {
+    "id": "s050",
+    "title": "第六章 警校生栉风沐雨百姓倚",
+    "source_path": "EPUB/xhtml/Section0044.xhtml",
+    "chapter": 6,
+    "original_chapter": 6,
+    "skill_file": "chapters/ch06-police.md",
+    "text_chars": 14,
+    "image_refs": 0
+  },
+  {
+    "id": "s051",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0044_0001.xhtml",
+    "chapter": 6,
+    "original_chapter": 6,
+    "skill_file": "chapters/ch06-police.md",
+    "text_chars": 193,
+    "image_refs": 0
+  },
+  {
+    "id": "s052",
+    "title": "什么是警校生？",
+    "source_path": "EPUB/xhtml/Section0045.xhtml",
+    "chapter": 6,
+    "original_chapter": 6,
+    "skill_file": "chapters/ch06-police.md",
+    "text_chars": 165,
+    "image_refs": 0
+  },
+  {
+    "id": "s053",
+    "title": "可以报考哪些学校？",
+    "source_path": "EPUB/xhtml/Section0046.xhtml",
+    "chapter": 6,
+    "original_chapter": 6,
+    "skill_file": "chapters/ch06-police.md",
+    "text_chars": 702,
+    "image_refs": 1
+  },
+  {
+    "id": "s054",
+    "title": "考试情况介绍",
+    "source_path": "EPUB/xhtml/Section0047.xhtml",
+    "chapter": 6,
+    "original_chapter": 6,
+    "skill_file": "chapters/ch06-police.md",
+    "text_chars": 315,
+    "image_refs": 1
+  },
+  {
+    "id": "s055",
+    "title": "各警种的区别",
+    "source_path": "EPUB/xhtml/Section0048.xhtml",
+    "chapter": 6,
+    "original_chapter": 6,
+    "skill_file": "chapters/ch06-police.md",
+    "text_chars": 2300,
+    "image_refs": 0
+  },
+  {
+    "id": "s056",
+    "title": "常见问题",
+    "source_path": "EPUB/xhtml/Section0049.xhtml",
+    "chapter": 6,
+    "original_chapter": 6,
+    "skill_file": "chapters/ch06-police.md",
+    "text_chars": 1089,
+    "image_refs": 0
+  },
+  {
+    "id": "s057",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0050.xhtml",
+    "chapter": 6,
+    "original_chapter": 6,
+    "skill_file": "chapters/ch06-police.md",
+    "text_chars": 520,
+    "image_refs": 0
+  },
+  {
+    "id": "s058",
+    "title": "第七章 五大官校“毕业即就业”",
+    "source_path": "EPUB/xhtml/Section0051.xhtml",
+    "chapter": 7,
+    "original_chapter": 7,
+    "skill_file": "chapters/ch07-specialized-colleges.md",
+    "text_chars": 15,
+    "image_refs": 0
+  },
+  {
+    "id": "s059",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0051_0001.xhtml",
+    "chapter": 7,
+    "original_chapter": 7,
+    "skill_file": "chapters/ch07-specialized-colleges.md",
+    "text_chars": 212,
+    "image_refs": 0
+  },
+  {
+    "id": "s060",
+    "title": "外交学院",
+    "source_path": "EPUB/xhtml/Section0052.xhtml",
+    "chapter": 7,
+    "original_chapter": 7,
+    "skill_file": "chapters/ch07-specialized-colleges.md",
+    "text_chars": 1944,
+    "image_refs": 4
+  },
+  {
+    "id": "s061",
+    "title": "北京电子科技学院",
+    "source_path": "EPUB/xhtml/Section0053.xhtml",
+    "chapter": 7,
+    "original_chapter": 7,
+    "skill_file": "chapters/ch07-specialized-colleges.md",
+    "text_chars": 1431,
+    "image_refs": 3
+  },
+  {
+    "id": "s062",
+    "title": "中国消防救援学院",
+    "source_path": "EPUB/xhtml/Section0054.xhtml",
+    "chapter": 7,
+    "original_chapter": 7,
+    "skill_file": "chapters/ch07-specialized-colleges.md",
+    "text_chars": 1048,
+    "image_refs": 3
+  },
+  {
+    "id": "s063",
+    "title": "上海海关学院",
+    "source_path": "EPUB/xhtml/Section0055.xhtml",
+    "chapter": 7,
+    "original_chapter": 7,
+    "skill_file": "chapters/ch07-specialized-colleges.md",
+    "text_chars": 1199,
+    "image_refs": 2
+  },
+  {
+    "id": "s064",
+    "title": "国际关系学院",
+    "source_path": "EPUB/xhtml/Section0056.xhtml",
+    "chapter": 7,
+    "original_chapter": 7,
+    "skill_file": "chapters/ch07-specialized-colleges.md",
+    "text_chars": 1226,
+    "image_refs": 4
+  },
+  {
+    "id": "s065",
+    "title": "第八章 三大专项农村学生的福音",
+    "source_path": "EPUB/xhtml/Section0057.xhtml",
+    "chapter": 8,
+    "original_chapter": 8,
+    "skill_file": "chapters/ch08-special-plans.md",
+    "text_chars": 15,
+    "image_refs": 0
+  },
+  {
+    "id": "s066",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0057_0001.xhtml",
+    "chapter": 8,
+    "original_chapter": 8,
+    "skill_file": "chapters/ch08-special-plans.md",
+    "text_chars": 217,
+    "image_refs": 0
+  },
+  {
+    "id": "s067",
+    "title": "三大专项计划",
+    "source_path": "EPUB/xhtml/Section0058.xhtml",
+    "chapter": 8,
+    "original_chapter": 8,
+    "skill_file": "chapters/ch08-special-plans.md",
+    "text_chars": 260,
+    "image_refs": 0
+  },
+  {
+    "id": "s068",
+    "title": "三大专项的报考条件",
+    "source_path": "EPUB/xhtml/Section0059.xhtml",
+    "chapter": 8,
+    "original_chapter": 8,
+    "skill_file": "chapters/ch08-special-plans.md",
+    "text_chars": 755,
+    "image_refs": 0
+  },
+  {
+    "id": "s069",
+    "title": "专项计划的实施区域",
+    "source_path": "EPUB/xhtml/Section0060.xhtml",
+    "chapter": 8,
+    "original_chapter": 8,
+    "skill_file": "chapters/ch08-special-plans.md",
+    "text_chars": 542,
+    "image_refs": 11
+  },
+  {
+    "id": "s070",
+    "title": "哪些高校有专项计划招生资格？",
+    "source_path": "EPUB/xhtml/Section0061.xhtml",
+    "chapter": 8,
+    "original_chapter": 8,
+    "skill_file": "chapters/ch08-special-plans.md",
+    "text_chars": 146,
+    "image_refs": 3
+  },
+  {
+    "id": "s071",
+    "title": "三大专项的对比",
+    "source_path": "EPUB/xhtml/Section0062.xhtml",
+    "chapter": 8,
+    "original_chapter": 8,
+    "skill_file": "chapters/ch08-special-plans.md",
+    "text_chars": 205,
+    "image_refs": 1
+  },
+  {
+    "id": "s072",
+    "title": "常见问题",
+    "source_path": "EPUB/xhtml/Section0063.xhtml",
+    "chapter": 8,
+    "original_chapter": 8,
+    "skill_file": "chapters/ch08-special-plans.md",
+    "text_chars": 487,
+    "image_refs": 0
+  },
+  {
+    "id": "s073",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0064.xhtml",
+    "chapter": 8,
+    "original_chapter": 8,
+    "skill_file": "chapters/ch08-special-plans.md",
+    "text_chars": 150,
+    "image_refs": 0
+  },
+  {
+    "id": "s074",
+    "title": "第九章 联合培养探索不同的教育方式",
+    "source_path": "EPUB/xhtml/Section0065.xhtml",
+    "chapter": 9,
+    "original_chapter": 9,
+    "skill_file": "chapters/ch09-joint-training.md",
+    "text_chars": 17,
+    "image_refs": 0
+  },
+  {
+    "id": "s075",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0065_0001.xhtml",
+    "chapter": 9,
+    "original_chapter": 9,
+    "skill_file": "chapters/ch09-joint-training.md",
+    "text_chars": 194,
+    "image_refs": 0
+  },
+  {
+    "id": "s076",
+    "title": "本科阶段联合培养的主要类型",
+    "source_path": "EPUB/xhtml/Section0066.xhtml",
+    "chapter": 9,
+    "original_chapter": 9,
+    "skill_file": "chapters/ch09-joint-training.md",
+    "text_chars": 397,
+    "image_refs": 0
+  },
+  {
+    "id": "s077",
+    "title": "哪些省份可以报联合培养？",
+    "source_path": "EPUB/xhtml/Section0067.xhtml",
+    "chapter": 9,
+    "original_chapter": 9,
+    "skill_file": "chapters/ch09-joint-training.md",
+    "text_chars": 406,
+    "image_refs": 0
+  },
+  {
+    "id": "s078",
+    "title": "联合培养的优势与局限",
+    "source_path": "EPUB/xhtml/Section0068.xhtml",
+    "chapter": 9,
+    "original_chapter": 9,
+    "skill_file": "chapters/ch09-joint-training.md",
+    "text_chars": 1088,
+    "image_refs": 1
+  },
+  {
+    "id": "s079",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0069.xhtml",
+    "chapter": 9,
+    "original_chapter": 9,
+    "skill_file": "chapters/ch09-joint-training.md",
+    "text_chars": 165,
+    "image_refs": 0
+  },
+  {
+    "id": "s080",
+    "title": "第十章 中外合作办学用财力弥补实力",
+    "source_path": "EPUB/xhtml/Section0070.xhtml",
+    "chapter": 10,
+    "original_chapter": 10,
+    "skill_file": "chapters/ch10-sino-foreign.md",
+    "text_chars": 17,
+    "image_refs": 0
+  },
+  {
+    "id": "s081",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0070_0001.xhtml",
+    "chapter": 10,
+    "original_chapter": 10,
+    "skill_file": "chapters/ch10-sino-foreign.md",
+    "text_chars": 217,
+    "image_refs": 0
+  },
+  {
+    "id": "s082",
+    "title": "什么是中外合作办学？",
+    "source_path": "EPUB/xhtml/Section0071.xhtml",
+    "chapter": 10,
+    "original_chapter": 10,
+    "skill_file": "chapters/ch10-sino-foreign.md",
+    "text_chars": 96,
+    "image_refs": 0
+  },
+  {
+    "id": "s083",
+    "title": "中外合作办学有哪几种模式？",
+    "source_path": "EPUB/xhtml/Section0072.xhtml",
+    "chapter": 10,
+    "original_chapter": 10,
+    "skill_file": "chapters/ch10-sino-foreign.md",
+    "text_chars": 791,
+    "image_refs": 1
+  },
+  {
+    "id": "s084",
+    "title": "中外合作办学学校和中外合作办学专业的区别",
+    "source_path": "EPUB/xhtml/Section0073.xhtml",
+    "chapter": 10,
+    "original_chapter": 10,
+    "skill_file": "chapters/ch10-sino-foreign.md",
+    "text_chars": 351,
+    "image_refs": 0
+  },
+  {
+    "id": "s085",
+    "title": "中外合作办学的优势与局限",
+    "source_path": "EPUB/xhtml/Section0074.xhtml",
+    "chapter": 10,
+    "original_chapter": 10,
+    "skill_file": "chapters/ch10-sino-foreign.md",
+    "text_chars": 503,
+    "image_refs": 0
+  },
+  {
+    "id": "s086",
+    "title": "中外合办专业的学生和统招的学生在培养上的区别",
+    "source_path": "EPUB/xhtml/Section0075.xhtml",
+    "chapter": 10,
+    "original_chapter": 10,
+    "skill_file": "chapters/ch10-sino-foreign.md",
+    "text_chars": 537,
+    "image_refs": 0
+  },
+  {
+    "id": "s087",
+    "title": "海南陵水黎安国际教育创新试验区 ——鲜为人知的宝藏园区",
+    "source_path": "EPUB/xhtml/Section0076.xhtml",
+    "chapter": 10,
+    "original_chapter": 10,
+    "skill_file": "chapters/ch10-sino-foreign.md",
+    "text_chars": 1218,
+    "image_refs": 4
+  },
+  {
+    "id": "s088",
+    "title": "常见问题",
+    "source_path": "EPUB/xhtml/Section0077.xhtml",
+    "chapter": 10,
+    "original_chapter": 10,
+    "skill_file": "chapters/ch10-sino-foreign.md",
+    "text_chars": 447,
+    "image_refs": 1
+  },
+  {
+    "id": "s089",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0078.xhtml",
+    "chapter": 10,
+    "original_chapter": 10,
+    "skill_file": "chapters/ch10-sino-foreign.md",
+    "text_chars": 436,
+    "image_refs": 0
+  },
+  {
+    "id": "s090",
+    "title": "第十一章 国际本科另辟蹊径把学留",
+    "source_path": "EPUB/xhtml/Section0079.xhtml",
+    "chapter": 11,
+    "original_chapter": 11,
+    "skill_file": "chapters/ch11-international-bachelor.md",
+    "text_chars": 16,
+    "image_refs": 0
+  },
+  {
+    "id": "s091",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0079_0001.xhtml",
+    "chapter": 11,
+    "original_chapter": 11,
+    "skill_file": "chapters/ch11-international-bachelor.md",
+    "text_chars": 217,
+    "image_refs": 0
+  },
+  {
+    "id": "s092",
+    "title": "什么是国际本科？",
+    "source_path": "EPUB/xhtml/Section0080.xhtml",
+    "chapter": 11,
+    "original_chapter": 11,
+    "skill_file": "chapters/ch11-international-bachelor.md",
+    "text_chars": 266,
+    "image_refs": 0
+  },
+  {
+    "id": "s093",
+    "title": "国际本科的优势与局限",
+    "source_path": "EPUB/xhtml/Section0081.xhtml",
+    "chapter": 11,
+    "original_chapter": 11,
+    "skill_file": "chapters/ch11-international-bachelor.md",
+    "text_chars": 940,
+    "image_refs": 0
+  },
+  {
+    "id": "s094",
+    "title": "国际本科的申请条件",
+    "source_path": "EPUB/xhtml/Section0082.xhtml",
+    "chapter": 11,
+    "original_chapter": 11,
+    "skill_file": "chapters/ch11-international-bachelor.md",
+    "text_chars": 150,
+    "image_refs": 0
+  },
+  {
+    "id": "s095",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0083.xhtml",
+    "chapter": 11,
+    "original_chapter": 11,
+    "skill_file": "chapters/ch11-international-bachelor.md",
+    "text_chars": 166,
+    "image_refs": 1
+  },
+  {
+    "id": "s096",
+    "title": "第十二章 港澳生升学“双保险”",
+    "source_path": "EPUB/xhtml/Section0084.xhtml",
+    "chapter": 12,
+    "original_chapter": 12,
+    "skill_file": "chapters/ch12-hong-kong-macao.md",
+    "text_chars": 15,
+    "image_refs": 0
+  },
+  {
+    "id": "s097",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0084_0001.xhtml",
+    "chapter": 12,
+    "original_chapter": 12,
+    "skill_file": "chapters/ch12-hong-kong-macao.md",
+    "text_chars": 293,
+    "image_refs": 0
+  },
+  {
+    "id": "s098",
+    "title": "港澳升学的优势",
+    "source_path": "EPUB/xhtml/Section0085.xhtml",
+    "chapter": 12,
+    "original_chapter": 12,
+    "skill_file": "chapters/ch12-hong-kong-macao.md",
+    "text_chars": 1826,
+    "image_refs": 3
+  },
+  {
+    "id": "s099",
+    "title": "港澳高校在内地的招生方式及建议",
+    "source_path": "EPUB/xhtml/Section0086.xhtml",
+    "chapter": 12,
+    "original_chapter": 12,
+    "skill_file": "chapters/ch12-hong-kong-macao.md",
+    "text_chars": 5374,
+    "image_refs": 4
+  },
+  {
+    "id": "s100",
+    "title": "港澳院校报考流程",
+    "source_path": "EPUB/xhtml/Section0087.xhtml",
+    "chapter": 12,
+    "original_chapter": 12,
+    "skill_file": "chapters/ch12-hong-kong-macao.md",
+    "text_chars": 1187,
+    "image_refs": 1
+  },
+  {
+    "id": "s101",
+    "title": "港澳高校排名",
+    "source_path": "EPUB/xhtml/Section0088.xhtml",
+    "chapter": 12,
+    "original_chapter": 12,
+    "skill_file": "chapters/ch12-hong-kong-macao.md",
+    "text_chars": 522,
+    "image_refs": 7
+  },
+  {
+    "id": "s102",
+    "title": "常见问题",
+    "source_path": "EPUB/xhtml/Section0089.xhtml",
+    "chapter": 12,
+    "original_chapter": 12,
+    "skill_file": "chapters/ch12-hong-kong-macao.md",
+    "text_chars": 496,
+    "image_refs": 0
+  },
+  {
+    "id": "s103",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0090.xhtml",
+    "chapter": 12,
+    "original_chapter": 12,
+    "skill_file": "chapters/ch12-hong-kong-macao.md",
+    "text_chars": 1228,
+    "image_refs": 0
+  },
+  {
+    "id": "s104",
+    "title": "第十三章 保送生不用高考直接录取",
+    "source_path": "EPUB/xhtml/Section0091.xhtml",
+    "chapter": 13,
+    "original_chapter": 13,
+    "skill_file": "chapters/ch13-recommended-admission.md",
+    "text_chars": 16,
+    "image_refs": 0
+  },
+  {
+    "id": "s105",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0091_0001.xhtml",
+    "chapter": 13,
+    "original_chapter": 13,
+    "skill_file": "chapters/ch13-recommended-admission.md",
+    "text_chars": 331,
+    "image_refs": 0
+  },
+  {
+    "id": "s106",
+    "title": "外语类",
+    "source_path": "EPUB/xhtml/Section0092.xhtml",
+    "chapter": 13,
+    "original_chapter": 13,
+    "skill_file": "chapters/ch13-recommended-admission.md",
+    "text_chars": 6026,
+    "image_refs": 5
+  },
+  {
+    "id": "s107",
+    "title": "竞赛类",
+    "source_path": "EPUB/xhtml/Section0093.xhtml",
+    "chapter": 13,
+    "original_chapter": 13,
+    "skill_file": "chapters/ch13-recommended-admission.md",
+    "text_chars": 3812,
+    "image_refs": 5
+  },
+  {
+    "id": "s108",
+    "title": "公安英烈子女",
+    "source_path": "EPUB/xhtml/Section0094.xhtml",
+    "chapter": 13,
+    "original_chapter": 13,
+    "skill_file": "chapters/ch13-recommended-admission.md",
+    "text_chars": 1248,
+    "image_refs": 1
+  },
+  {
+    "id": "s109",
+    "title": "优秀退役运动员",
+    "source_path": "EPUB/xhtml/Section0095.xhtml",
+    "chapter": 13,
+    "original_chapter": 13,
+    "skill_file": "chapters/ch13-recommended-admission.md",
+    "text_chars": 1823,
+    "image_refs": 1
+  },
+  {
+    "id": "s110",
+    "title": "保送录取程序",
+    "source_path": "EPUB/xhtml/Section0096.xhtml",
+    "chapter": 13,
+    "original_chapter": 13,
+    "skill_file": "chapters/ch13-recommended-admission.md",
+    "text_chars": 794,
+    "image_refs": 1
+  },
+  {
+    "id": "s111",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0097.xhtml",
+    "chapter": 13,
+    "original_chapter": 13,
+    "skill_file": "chapters/ch13-recommended-admission.md",
+    "text_chars": 457,
+    "image_refs": 0
+  },
+  {
+    "id": "s112",
+    "title": "第十四章 少年班天才少年选拔计划",
+    "source_path": "EPUB/xhtml/Section0098.xhtml",
+    "chapter": 14,
+    "original_chapter": 14,
+    "skill_file": "chapters/ch14-young-talent.md",
+    "text_chars": 16,
+    "image_refs": 0
+  },
+  {
+    "id": "s113",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0098_0001.xhtml",
+    "chapter": 14,
+    "original_chapter": 14,
+    "skill_file": "chapters/ch14-young-talent.md",
+    "text_chars": 320,
+    "image_refs": 0
+  },
+  {
+    "id": "s114",
+    "title": "什么是少年班？",
+    "source_path": "EPUB/xhtml/Section0099.xhtml",
+    "chapter": 14,
+    "original_chapter": 14,
+    "skill_file": "chapters/ch14-young-talent.md",
+    "text_chars": 100,
+    "image_refs": 0
+  },
+  {
+    "id": "s115",
+    "title": "有哪些学校开设少年班？",
+    "source_path": "EPUB/xhtml/Section0100.xhtml",
+    "chapter": 14,
+    "original_chapter": 14,
+    "skill_file": "chapters/ch14-young-talent.md",
+    "text_chars": 3542,
+    "image_refs": 0
+  },
+  {
+    "id": "s116",
+    "title": "常见问题",
+    "source_path": "EPUB/xhtml/Section0101.xhtml",
+    "chapter": 14,
+    "original_chapter": 14,
+    "skill_file": "chapters/ch14-young-talent.md",
+    "text_chars": 1731,
+    "image_refs": 0
+  },
+  {
+    "id": "s117",
+    "title": "规划建议",
+    "source_path": "EPUB/xhtml/Section0102.xhtml",
+    "chapter": 14,
+    "original_chapter": 14,
+    "skill_file": "chapters/ch14-young-talent.md",
+    "text_chars": 684,
+    "image_refs": 0
+  },
+  {
+    "id": "s118",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0103.xhtml",
+    "chapter": 14,
+    "original_chapter": 14,
+    "skill_file": "chapters/ch14-young-talent.md",
+    "text_chars": 400,
+    "image_refs": 0
+  },
+  {
+    "id": "s119",
+    "title": "第十五章 “三位一体”浙江省专属政策",
+    "source_path": "EPUB/xhtml/Section0104.xhtml",
+    "chapter": 15,
+    "original_chapter": 15,
+    "skill_file": "chapters/ch15-zhejiang-trinity.md",
+    "text_chars": 18,
+    "image_refs": 0
+  },
+  {
+    "id": "s120",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0104_0001.xhtml",
+    "chapter": 15,
+    "original_chapter": 15,
+    "skill_file": "chapters/ch15-zhejiang-trinity.md",
+    "text_chars": 376,
+    "image_refs": 0
+  },
+  {
+    "id": "s121",
+    "title": "什么是“三位一体”？",
+    "source_path": "EPUB/xhtml/Section0105.xhtml",
+    "chapter": 15,
+    "original_chapter": 15,
+    "skill_file": "chapters/ch15-zhejiang-trinity.md",
+    "text_chars": 262,
+    "image_refs": 0
+  },
+  {
+    "id": "s122",
+    "title": "“三位一体”的报名流程",
+    "source_path": "EPUB/xhtml/Section0106.xhtml",
+    "chapter": 15,
+    "original_chapter": 15,
+    "skill_file": "chapters/ch15-zhejiang-trinity.md",
+    "text_chars": 276,
+    "image_refs": 0
+  },
+  {
+    "id": "s123",
+    "title": "哪些学校有“三位一体”？",
+    "source_path": "EPUB/xhtml/Section0107.xhtml",
+    "chapter": 15,
+    "original_chapter": 15,
+    "skill_file": "chapters/ch15-zhejiang-trinity.md",
+    "text_chars": 68,
+    "image_refs": 2
+  },
+  {
+    "id": "s124",
+    "title": "参加“三位一体”需要满足什么条件？",
+    "source_path": "EPUB/xhtml/Section0108.xhtml",
+    "chapter": 15,
+    "original_chapter": 15,
+    "skill_file": "chapters/ch15-zhejiang-trinity.md",
+    "text_chars": 308,
+    "image_refs": 0
+  },
+  {
+    "id": "s125",
+    "title": "浙江学生报考“三位一体”的优势",
+    "source_path": "EPUB/xhtml/Section0109.xhtml",
+    "chapter": 15,
+    "original_chapter": 15,
+    "skill_file": "chapters/ch15-zhejiang-trinity.md",
+    "text_chars": 441,
+    "image_refs": 0
+  },
+  {
+    "id": "s126",
+    "title": "哪些学生适合报考“三位一体”？",
+    "source_path": "EPUB/xhtml/Section0110.xhtml",
+    "chapter": 15,
+    "original_chapter": 15,
+    "skill_file": "chapters/ch15-zhejiang-trinity.md",
+    "text_chars": 502,
+    "image_refs": 0
+  },
+  {
+    "id": "s127",
+    "title": "常见问题",
+    "source_path": "EPUB/xhtml/Section0111.xhtml",
+    "chapter": 15,
+    "original_chapter": 15,
+    "skill_file": "chapters/ch15-zhejiang-trinity.md",
+    "text_chars": 419,
+    "image_refs": 0
+  },
+  {
+    "id": "s128",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0112.xhtml",
+    "chapter": 15,
+    "original_chapter": 15,
+    "skill_file": "chapters/ch15-zhejiang-trinity.md",
+    "text_chars": 161,
+    "image_refs": 0
+  },
+  {
+    "id": "s129",
+    "title": "第十六章 上海春考上海市专属政策",
+    "source_path": "EPUB/xhtml/Section0113.xhtml",
+    "chapter": 16,
+    "original_chapter": 16,
+    "skill_file": "chapters/ch16-shanghai-spring.md",
+    "text_chars": 16,
+    "image_refs": 0
+  },
+  {
+    "id": "s130",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0113_0001.xhtml",
+    "chapter": 16,
+    "original_chapter": 16,
+    "skill_file": "chapters/ch16-shanghai-spring.md",
+    "text_chars": 375,
+    "image_refs": 0
+  },
+  {
+    "id": "s131",
+    "title": "什么是上海春考？",
+    "source_path": "EPUB/xhtml/Section0114.xhtml",
+    "chapter": 16,
+    "original_chapter": 16,
+    "skill_file": "chapters/ch16-shanghai-spring.md",
+    "text_chars": 256,
+    "image_refs": 0
+  },
+  {
+    "id": "s132",
+    "title": "上海春考的报名流程",
+    "source_path": "EPUB/xhtml/Section0115.xhtml",
+    "chapter": 16,
+    "original_chapter": 16,
+    "skill_file": "chapters/ch16-shanghai-spring.md",
+    "text_chars": 754,
+    "image_refs": 0
+  },
+  {
+    "id": "s133",
+    "title": "哪些学校有春考？",
+    "source_path": "EPUB/xhtml/Section0116.xhtml",
+    "chapter": 16,
+    "original_chapter": 16,
+    "skill_file": "chapters/ch16-shanghai-spring.md",
+    "text_chars": 1148,
+    "image_refs": 2
+  },
+  {
+    "id": "s134",
+    "title": "参加上海春考需要满足什么条件？",
+    "source_path": "EPUB/xhtml/Section0117.xhtml",
+    "chapter": 16,
+    "original_chapter": 16,
+    "skill_file": "chapters/ch16-shanghai-spring.md",
+    "text_chars": 257,
+    "image_refs": 0
+  },
+  {
+    "id": "s135",
+    "title": "上海春考的优势",
+    "source_path": "EPUB/xhtml/Section0118.xhtml",
+    "chapter": 16,
+    "original_chapter": 16,
+    "skill_file": "chapters/ch16-shanghai-spring.md",
+    "text_chars": 443,
+    "image_refs": 0
+  },
+  {
+    "id": "s136",
+    "title": "哪些学生适合报考上海春考？",
+    "source_path": "EPUB/xhtml/Section0119.xhtml",
+    "chapter": 16,
+    "original_chapter": 16,
+    "skill_file": "chapters/ch16-shanghai-spring.md",
+    "text_chars": 571,
+    "image_refs": 0
+  },
+  {
+    "id": "s137",
+    "title": "常见问题",
+    "source_path": "EPUB/xhtml/Section0120.xhtml",
+    "chapter": 16,
+    "original_chapter": 16,
+    "skill_file": "chapters/ch16-shanghai-spring.md",
+    "text_chars": 1439,
+    "image_refs": 0
+  },
+  {
+    "id": "s138",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0121.xhtml",
+    "chapter": 16,
+    "original_chapter": 16,
+    "skill_file": "chapters/ch16-shanghai-spring.md",
+    "text_chars": 339,
+    "image_refs": 0
+  },
+  {
+    "id": "s139",
+    "title": "第十七章 “双培计划”“外培计划”北京市专属政策",
+    "source_path": "EPUB/xhtml/Section0122.xhtml",
+    "chapter": 17,
+    "original_chapter": 17,
+    "skill_file": "chapters/ch17-beijing-training.md",
+    "text_chars": 24,
+    "image_refs": 0
+  },
+  {
+    "id": "s140",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0122_0001.xhtml",
+    "chapter": 17,
+    "original_chapter": 17,
+    "skill_file": "chapters/ch17-beijing-training.md",
+    "text_chars": 355,
+    "image_refs": 0
+  },
+  {
+    "id": "s141",
+    "title": "什么是“双培计划”和“外培计划”？",
+    "source_path": "EPUB/xhtml/Section0123.xhtml",
+    "chapter": 17,
+    "original_chapter": 17,
+    "skill_file": "chapters/ch17-beijing-training.md",
+    "text_chars": 408,
+    "image_refs": 0
+  },
+  {
+    "id": "s142",
+    "title": "哪些学校有“双培计划”和“外培计划”？",
+    "source_path": "EPUB/xhtml/Section0124.xhtml",
+    "chapter": 17,
+    "original_chapter": 17,
+    "skill_file": "chapters/ch17-beijing-training.md",
+    "text_chars": 625,
+    "image_refs": 1
+  },
+  {
+    "id": "s143",
+    "title": "“双培计划”和“外培计划”的优势与局限",
+    "source_path": "EPUB/xhtml/Section0125.xhtml",
+    "chapter": 17,
+    "original_chapter": 17,
+    "skill_file": "chapters/ch17-beijing-training.md",
+    "text_chars": 1536,
+    "image_refs": 0
+  },
+  {
+    "id": "s144",
+    "title": "常见问题",
+    "source_path": "EPUB/xhtml/Section0126.xhtml",
+    "chapter": 17,
+    "original_chapter": 17,
+    "skill_file": "chapters/ch17-beijing-training.md",
+    "text_chars": 1133,
+    "image_refs": 0
+  },
+  {
+    "id": "s145",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0127.xhtml",
+    "chapter": 17,
+    "original_chapter": 17,
+    "skill_file": "chapters/ch17-beijing-training.md",
+    "text_chars": 700,
+    "image_refs": 0
+  },
+  {
+    "id": "s146",
+    "title": "第十八章 民族班与民族预科班两种班，一家人",
+    "source_path": "EPUB/xhtml/Section0128.xhtml",
+    "chapter": 18,
+    "original_chapter": 18,
+    "skill_file": "chapters/ch18-ethnic-preparatory.md",
+    "text_chars": 21,
+    "image_refs": 0
+  },
+  {
+    "id": "s147",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0128_0001.xhtml",
+    "chapter": 18,
+    "original_chapter": 18,
+    "skill_file": "chapters/ch18-ethnic-preparatory.md",
+    "text_chars": 160,
+    "image_refs": 0
+  },
+  {
+    "id": "s148",
+    "title": "什么是民族班？",
+    "source_path": "EPUB/xhtml/Section0129.xhtml",
+    "chapter": 18,
+    "original_chapter": 18,
+    "skill_file": "chapters/ch18-ethnic-preparatory.md",
+    "text_chars": 244,
+    "image_refs": 0
+  },
+  {
+    "id": "s149",
+    "title": "什么是民族预科班？",
+    "source_path": "EPUB/xhtml/Section0130.xhtml",
+    "chapter": 18,
+    "original_chapter": 18,
+    "skill_file": "chapters/ch18-ethnic-preparatory.md",
+    "text_chars": 300,
+    "image_refs": 0
+  },
+  {
+    "id": "s150",
+    "title": "民族班和民族预科班的区别",
+    "source_path": "EPUB/xhtml/Section0132.xhtml",
+    "chapter": 18,
+    "original_chapter": 18,
+    "skill_file": "chapters/ch18-ethnic-preparatory.md",
+    "text_chars": 1678,
+    "image_refs": 0
+  },
+  {
+    "id": "s151",
+    "title": "边防军人子女预科班",
+    "source_path": "EPUB/xhtml/Section0133.xhtml",
+    "chapter": 18,
+    "original_chapter": 18,
+    "skill_file": "chapters/ch18-ethnic-preparatory.md",
+    "text_chars": 1420,
+    "image_refs": 0
+  },
+  {
+    "id": "s152",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0134.xhtml",
+    "chapter": 18,
+    "original_chapter": 18,
+    "skill_file": "chapters/ch18-ethnic-preparatory.md",
+    "text_chars": 143,
+    "image_refs": 0
+  },
+  {
+    "id": "s153",
+    "title": "第十九章 定向培养军士专科也能从军行",
+    "source_path": "EPUB/xhtml/Section0135.xhtml",
+    "chapter": 19,
+    "original_chapter": 19,
+    "skill_file": "chapters/ch19-oriented-nco.md",
+    "text_chars": 18,
+    "image_refs": 0
+  },
+  {
+    "id": "s154",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0135_0001.xhtml",
+    "chapter": 19,
+    "original_chapter": 19,
+    "skill_file": "chapters/ch19-oriented-nco.md",
+    "text_chars": 422,
+    "image_refs": 0
+  },
+  {
+    "id": "s155",
+    "title": "什么是定向培养军士？",
+    "source_path": "EPUB/xhtml/Section0136.xhtml",
+    "chapter": 19,
+    "original_chapter": 19,
+    "skill_file": "chapters/ch19-oriented-nco.md",
+    "text_chars": 124,
+    "image_refs": 0
+  },
+  {
+    "id": "s156",
+    "title": "定向培养军士的报考流程",
+    "source_path": "EPUB/xhtml/Section0137.xhtml",
+    "chapter": 19,
+    "original_chapter": 19,
+    "skill_file": "chapters/ch19-oriented-nco.md",
+    "text_chars": 261,
+    "image_refs": 0
+  },
+  {
+    "id": "s157",
+    "title": "定向培养军士和直招军士的区别",
+    "source_path": "EPUB/xhtml/Section0138.xhtml",
+    "chapter": 19,
+    "original_chapter": 19,
+    "skill_file": "chapters/ch19-oriented-nco.md",
+    "text_chars": 230,
+    "image_refs": 0
+  },
+  {
+    "id": "s158",
+    "title": "定向培养军士可以选择哪些学校？",
+    "source_path": "EPUB/xhtml/Section0139.xhtml",
+    "chapter": 19,
+    "original_chapter": 19,
+    "skill_file": "chapters/ch19-oriented-nco.md",
+    "text_chars": 42,
+    "image_refs": 2
+  },
+  {
+    "id": "s159",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0140.xhtml",
+    "chapter": 19,
+    "original_chapter": 19,
+    "skill_file": "chapters/ch19-oriented-nco.md",
+    "text_chars": 353,
+    "image_refs": 0
+  },
+  {
+    "id": "s160",
+    "title": "第二十章 “高本贯通”低分保本新思路",
+    "source_path": "EPUB/xhtml/Section0141.xhtml",
+    "chapter": 20,
+    "original_chapter": 20,
+    "skill_file": "chapters/ch20-vocational-bachelor.md",
+    "text_chars": 18,
+    "image_refs": 0
+  },
+  {
+    "id": "s161",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0141_0001.xhtml",
+    "chapter": 20,
+    "original_chapter": 20,
+    "skill_file": "chapters/ch20-vocational-bachelor.md",
+    "text_chars": 384,
+    "image_refs": 0
+  },
+  {
+    "id": "s162",
+    "title": "什么是“高本贯通”？",
+    "source_path": "EPUB/xhtml/Section0142.xhtml",
+    "chapter": 20,
+    "original_chapter": 20,
+    "skill_file": "chapters/ch20-vocational-bachelor.md",
+    "text_chars": 193,
+    "image_refs": 0
+  },
+  {
+    "id": "s163",
+    "title": "“高本贯通”的报名条件",
+    "source_path": "EPUB/xhtml/Section0143.xhtml",
+    "chapter": 20,
+    "original_chapter": 20,
+    "skill_file": "chapters/ch20-vocational-bachelor.md",
+    "text_chars": 377,
+    "image_refs": 0
+  },
+  {
+    "id": "s164",
+    "title": "招生来源",
+    "source_path": "EPUB/xhtml/Section0131.xhtml",
+    "chapter": 18,
+    "original_chapter": 20,
+    "skill_file": "chapters/ch18-ethnic-preparatory.md",
+    "text_chars": 450,
+    "image_refs": 0
+  },
+  {
+    "id": "s165",
+    "title": "“高本贯通”和专升本的异同",
+    "source_path": "EPUB/xhtml/Section0144.xhtml",
+    "chapter": 20,
+    "original_chapter": 20,
+    "skill_file": "chapters/ch20-vocational-bachelor.md",
+    "text_chars": 717,
+    "image_refs": 0
+  },
+  {
+    "id": "s166",
+    "title": "常见问题",
+    "source_path": "EPUB/xhtml/Section0145.xhtml",
+    "chapter": 20,
+    "original_chapter": 20,
+    "skill_file": "chapters/ch20-vocational-bachelor.md",
+    "text_chars": 240,
+    "image_refs": 0
+  },
+  {
+    "id": "s167",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0146.xhtml",
+    "chapter": 20,
+    "original_chapter": 20,
+    "skill_file": "chapters/ch20-vocational-bachelor.md",
+    "text_chars": 244,
+    "image_refs": 0
+  },
+  {
+    "id": "s168",
+    "title": "第二十一章 高职单招低分也有好选择",
+    "source_path": "EPUB/xhtml/Section0147.xhtml",
+    "chapter": 21,
+    "original_chapter": 21,
+    "skill_file": "chapters/ch21-vocational-admission.md",
+    "text_chars": 17,
+    "image_refs": 0
+  },
+  {
+    "id": "s169",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0147_0001.xhtml",
+    "chapter": 21,
+    "original_chapter": 21,
+    "skill_file": "chapters/ch21-vocational-admission.md",
+    "text_chars": 393,
+    "image_refs": 0
+  },
+  {
+    "id": "s170",
+    "title": "什么是高职单招？",
+    "source_path": "EPUB/xhtml/Section0148.xhtml",
+    "chapter": 21,
+    "original_chapter": 21,
+    "skill_file": "chapters/ch21-vocational-admission.md",
+    "text_chars": 284,
+    "image_refs": 0
+  },
+  {
+    "id": "s171",
+    "title": "高职单招的报考条件",
+    "source_path": "EPUB/xhtml/Section0149.xhtml",
+    "chapter": 21,
+    "original_chapter": 21,
+    "skill_file": "chapters/ch21-vocational-admission.md",
+    "text_chars": 428,
+    "image_refs": 0
+  },
+  {
+    "id": "s172",
+    "title": "高职单招的报考流程",
+    "source_path": "EPUB/xhtml/Section0150.xhtml",
+    "chapter": 21,
+    "original_chapter": 21,
+    "skill_file": "chapters/ch21-vocational-admission.md",
+    "text_chars": 45,
+    "image_refs": 1
+  },
+  {
+    "id": "s173",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0151.xhtml",
+    "chapter": 21,
+    "original_chapter": 21,
+    "skill_file": "chapters/ch21-vocational-admission.md",
+    "text_chars": 345,
+    "image_refs": 0
+  },
+  {
+    "id": "s174",
+    "title": "第二十二章 体育生四肢发达，头脑不简单",
+    "source_path": "EPUB/xhtml/Section0152.xhtml",
+    "chapter": 22,
+    "original_chapter": 22,
+    "skill_file": "chapters/ch22-sports.md",
+    "text_chars": 19,
+    "image_refs": 0
+  },
+  {
+    "id": "s175",
+    "title": "导语",
+    "source_path": "EPUB/xhtml/Section0152_0001.xhtml",
+    "chapter": 22,
+    "original_chapter": 22,
+    "skill_file": "chapters/ch22-sports.md",
+    "text_chars": 171,
+    "image_refs": 0
+  },
+  {
+    "id": "s176",
+    "title": "体育生升学途径",
+    "source_path": "EPUB/xhtml/Section0153.xhtml",
+    "chapter": 22,
+    "original_chapter": 22,
+    "skill_file": "chapters/ch22-sports.md",
+    "text_chars": 9077,
+    "image_refs": 9
+  },
+  {
+    "id": "s177",
+    "title": "院校推荐",
+    "source_path": "EPUB/xhtml/Section0154.xhtml",
+    "chapter": 22,
+    "original_chapter": 22,
+    "skill_file": "chapters/ch22-sports.md",
+    "text_chars": 835,
+    "image_refs": 0
+  },
+  {
+    "id": "s178",
+    "title": "体育专业",
+    "source_path": "EPUB/xhtml/Section0155.xhtml",
+    "chapter": 22,
+    "original_chapter": 22,
+    "skill_file": "chapters/ch22-sports.md",
+    "text_chars": 3961,
+    "image_refs": 0
+  },
+  {
+    "id": "s179",
+    "title": "常见问题",
+    "source_path": "EPUB/xhtml/Section0156.xhtml",
+    "chapter": 22,
+    "original_chapter": 22,
+    "skill_file": "chapters/ch22-sports.md",
+    "text_chars": 1796,
+    "image_refs": 0
+  },
+  {
+    "id": "s180",
+    "title": "总结",
+    "source_path": "EPUB/xhtml/Section0157.xhtml",
+    "chapter": 22,
+    "original_chapter": 22,
+    "skill_file": "chapters/ch22-sports.md",
+    "text_chars": 959,
+    "image_refs": 1
+  },
+  {
+    "id": "s181",
+    "title": "附录",
+    "source_path": "EPUB/xhtml/Section0158.xhtml",
+    "chapter": 0,
+    "original_chapter": 22,
+    "skill_file": "references/source.md",
+    "text_chars": 2,
+    "image_refs": 0
+  },
+  {
+    "id": "s182",
+    "title": "附录1：2022—2025学年面向中小学生的全国性竞赛活动名单",
+    "source_path": "EPUB/xhtml/Section0158_0001.xhtml",
+    "chapter": 0,
+    "original_chapter": 22,
+    "skill_file": "references/source.md",
+    "text_chars": 38,
+    "image_refs": 3
+  },
+  {
+    "id": "s183",
+    "title": "附录2：省属公费师范院校目录",
+    "source_path": "EPUB/xhtml/Section0159.xhtml",
+    "chapter": 0,
+    "original_chapter": 22,
+    "skill_file": "references/source.md",
+    "text_chars": 27,
+    "image_refs": 5
+  },
+  {
+    "id": "s184",
+    "title": "附录3：中外合作办学大学项目汇总（含内地与港澳台地区合作办学机构和内地与港澳台地区合作办学项目）",
+    "source_path": "EPUB/xhtml/Section0160.xhtml",
+    "chapter": 0,
+    "original_chapter": 22,
+    "skill_file": "references/source.md",
+    "text_chars": 79,
+    "image_refs": 11
+  },
+  {
+    "id": "s185",
+    "title": "附录4：2024年QS世界大学排名前300的院校名单",
+    "source_path": "EPUB/xhtml/Section0161.xhtml",
+    "chapter": 0,
+    "original_chapter": 22,
+    "skill_file": "references/source.md",
+    "text_chars": 48,
+    "image_refs": 8
+  },
+  {
+    "id": "s186",
+    "title": "附录5：2024年招收香港中学文凭考试学生内地高校名单",
+    "source_path": "EPUB/xhtml/Section0162.xhtml",
+    "chapter": 0,
+    "original_chapter": 22,
+    "skill_file": "references/source.md",
+    "text_chars": 30,
+    "image_refs": 2
+  },
+  {
+    "id": "s187",
+    "title": "附录6：符合高校保送录取优秀运动员的竞赛项目及赛事名录（2024版）",
+    "source_path": "EPUB/xhtml/Section0163.xhtml",
+    "chapter": 0,
+    "original_chapter": 22,
+    "skill_file": "references/source.md",
+    "text_chars": 132,
+    "image_refs": 22
+  }
+]

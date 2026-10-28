@@ -1,0 +1,20 @@
+{
+  "title": "高中生多元升学规划",
+  "author": "张雪峰·峰阅教研团队 编著",
+  "publisher": "湖南文艺出版社·全米文化",
+  "publication": "2024-04",
+  "isbn": "9787572617232",
+  "generated": "2026-10-14",
+  "sha256": "b3f9e8614062c4a5d1cb33918c8dfd33a296afff324f4e6e71d1d1b7f5d3dc7b",
+  "chapters": 22,
+  "appendices": 6,
+  "navigation_entries": 187,
+  "unique_navigation_documents": 187,
+  "extracted_navigation_text_chars": 136589,
+  "image_references": 180,
+  "unique_images": 165,
+  "ocr_images_with_text": 135,
+  "ocr_empty_80px_images": 30,
+  "official_extractor_commit": "c6bc1b7927822e563aae6212c07670f5a3d95ea7",
+  "current_year_policies_verified": false
+}
